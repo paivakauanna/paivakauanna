@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="46" viewBox="0 0 1000 46">
+<g transform="translate(4,8) scale(1.25)" fill="none" stroke="#a78bfa" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7.2A2.2 2.2 0 0 1 5.2 5H9l2 2.2h7.8A2.2 2.2 0 0 1 21 9.4v7.4A2.2 2.2 0 0 1 18.8 19H5.2A2.2 2.2 0 0 1 3 16.8Z"/></g>
+<text x="48" y="31" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="21" font-weight="600" fill="#a78bfa">Projects</text>
+<text x="964" y="29" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#a78bfa" text-anchor="end">View all</text><path d="M974 24h12M981 18.5l5.5 5.5-5.5 5.5" fill="none" stroke="#a78bfa" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
