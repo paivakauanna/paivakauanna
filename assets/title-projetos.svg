@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90">
+<defs><linearGradient id="tbar" x1="0" x2="1"><stop offset="0" stop-color="#5b3a9e"/><stop offset="1" stop-color="#c79cf5"/></linearGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#f0a6ff"/></linearGradient>
+<pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#24183a" stroke-width="1"/></pattern><style>
+.mono{font-family:'Courier New',Consolas,'Liberation Mono',monospace}
+.disp{font-family:'Arial Black','Arial Bold',Impact,'Helvetica Neue',sans-serif;font-weight:900}
+.jp{font-family:'Noto Sans JP','Hiragino Sans','Yu Gothic','Noto Sans CJK JP',sans-serif;font-weight:700}
+.tw{animation:tw 3.2s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.15}50%{opacity:1}}
+.cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+.fl{animation:fl 7s ease-in-out infinite}@keyframes fl{50%{transform:translateY(-7px)}}
+</style></defs>
+<rect width="1000" height="90" rx="14" fill="#0a0710"/>
+<rect width="1000" height="90" rx="14" fill="url(#grid)" opacity=".45"/>
+<text x="34" y="66" class="disp" font-size="50" fill="none" stroke="#cdb4ff" stroke-width="1" opacity=".35">PROJETOS</text>
+<text x="28" y="60" class="disp" font-size="50" fill="#efe6ff">PROJETOS</text>
+<text x="30" y="82" class="mono" font-size="11" fill="#8b7aa8">// coisas que eu construí</text>
+<path d="M560 50L568.4 36L572.4 36L564 50Z" fill="#cdb4ff"/><path d="M570 50L578.4 36L582.4 36L574 50Z" fill="#cdb4ff"/><path d="M580 50L588.4 36L592.4 36L584 50Z" fill="#cdb4ff"/><path d="M590 50L598.4 36L602.4 36L594 50Z" fill="#cdb4ff"/><path d="M600 50L608.4 36L612.4 36L604 50Z" fill="#cdb4ff"/><path d="M610 50L618.4 36L622.4 36L614 50Z" fill="#cdb4ff"/><path d="M620 50L628.4 36L632.4 36L624 50Z" fill="#cdb4ff"/><path d="M630 50L638.4 36L642.4 36L634 50Z" fill="#cdb4ff"/><path d="M640 50L648.4 36L652.4 36L644 50Z" fill="#cdb4ff"/><path d="M650 50L658.4 36L662.4 36L654 50Z" fill="#cdb4ff"/><path d="M660 50L668.4 36L672.4 36L664 50Z" fill="#cdb4ff"/><path d="M670 50L678.4 36L682.4 36L674 50Z" fill="#cdb4ff"/><path d="M680 50L688.4 36L692.4 36L684 50Z" fill="#cdb4ff"/><path d="M690 50L698.4 36L702.4 36L694 50Z" fill="#cdb4ff"/><path d="M700 50L708.4 36L712.4 36L704 50Z" fill="#cdb4ff"/><path d="M710 50L718.4 36L722.4 36L714 50Z" fill="#cdb4ff"/><path d="M720 50L728.4 36L732.4 36L724 50Z" fill="#cdb4ff"/>
+<rect x="740" y="36" width="150" height="14" fill="url(#bar)"/>
+<text x="965" y="56" class="jp" font-size="28" fill="#cdb4ff" text-anchor="end">作品</text>
+<path class="tw" style="animation-delay:0.5s" d="M910 16 Q910 22 916 22 Q910 22 910 28 Q910 22 904 22 Q910 22 910 16Z" fill="#f0a6ff"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170">
+<defs><linearGradient id="tbar" x1="0" x2="1"><stop offset="0" stop-color="#5b3a9e"/><stop offset="1" stop-color="#c79cf5"/></linearGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#f0a6ff"/></linearGradient>
+<pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#24183a" stroke-width="1"/></pattern>
+<radialGradient id="m3" cx="35%" cy="30%" r="75%"><stop offset="0" stop-color="#fbf7ff"/><stop offset="1" stop-color="#7a5fb8"/></radialGradient>
+<style>
+.mono{font-family:'Courier New',Consolas,'Liberation Mono',monospace}
+.disp{font-family:'Arial Black','Arial Bold',Impact,'Helvetica Neue',sans-serif;font-weight:900}
+.jp{font-family:'Noto Sans JP','Hiragino Sans','Yu Gothic','Noto Sans CJK JP',sans-serif;font-weight:700}
+.tw{animation:tw 3.2s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.15}50%{opacity:1}}
+.cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+.fl{animation:fl 7s ease-in-out infinite}@keyframes fl{50%{transform:translateY(-7px)}}
+</style></defs>
+<rect width="1000" height="170" rx="18" fill="#0a0710"/>
+<rect width="1000" height="170" rx="18" fill="url(#grid)" opacity=".45"/>
+<circle class="tw" style="animation-delay:2.5s" cx="147" cy="89" r="0.8" fill="#efe6ff"/><circle class="tw" style="animation-delay:0.3s" cx="582" cy="144" r="1" fill="#efe6ff"/><circle class="tw" style="animation-delay:1.1s" cx="51" cy="106" r="0.8" fill="#efe6ff"/><circle class="tw" style="animation-delay:1.9s" cx="452" cy="18" r="0.8" fill="#efe6ff"/><circle class="tw" style="animation-delay:1.4s" cx="677" cy="83" r="0.8" fill="#efe6ff"/><circle class="tw" style="animation-delay:2.0s" cx="79" cy="150" r="0.8" fill="#efe6ff"/><circle class="tw" style="animation-delay:2.4s" cx="75" cy="121" r="1.2" fill="#efe6ff"/><circle class="tw" style="animation-delay:0.7s" cx="839" cy="45" r="1" fill="#efe6ff"/><circle class="tw" style="animation-delay:0.2s" cx="647" cy="79" r="1.6" fill="#efe6ff"/><circle class="tw" style="animation-delay:1.9s" cx="902" cy="53" r="0.8" fill="#efe6ff"/><circle class="tw" style="animation-delay:1.0s" cx="640" cy="22" r="1" fill="#efe6ff"/><circle class="tw" style="animation-delay:0.0s" cx="649" cy="114" r="1" fill="#efe6ff"/><circle class="tw" style="animation-delay:2.1s" cx="69" cy="50" r="0.8" fill="#efe6ff"/><circle class="tw" style="animation-delay:1.4s" cx="672" cy="54" r="1.2" fill="#efe6ff"/><circle class="tw" style="animation-delay:0.9s" cx="467" cy="28" r="1" fill="#efe6ff"/><circle class="tw" style="animation-delay:1.4s" cx="94" cy="81" r="1.2" fill="#efe6ff"/><circle class="tw" style="animation-delay:3.0s" cx="813" cy="155" r="1.6" fill="#efe6ff"/><circle class="tw" style="animation-delay:0.2s" cx="389" cy="147" r="1" fill="#efe6ff"/><circle class="tw" style="animation-delay:2.9s" cx="98" cy="122" r="1.2" fill="#efe6ff"/><circle class="tw" style="animation-delay:2.7s" cx="140" cy="133" r="1.2" fill="#efe6ff"/><circle class="tw" style="animation-delay:1.2s" cx="699" cy="45" r="1.6" fill="#efe6ff"/><circle class="tw" style="animation-delay:1.2s" cx="166" cy="152" r="1.6" fill="#efe6ff"/><circle class="tw" style="animation-delay:0.9s" cx="723" cy="72" r="1.6" fill="#efe6ff"/><circle class="tw" style="animation-delay:2.5s" cx="833" cy="10" r="1.2" fill="#efe6ff"/><circle class="tw" style="animation-delay:2.7s" cx="128" cy="149" r="0.8" fill="#efe6ff"/><circle class="tw" style="animation-delay:1.2s" cx="294" cy="66" r="1.6" fill="#efe6ff"/><circle class="tw" style="animation-delay:2.3s" cx="863" cy="21" r="1.6" fill="#efe6ff"/><circle class="tw" style="animation-delay:2.5s" cx="847" cy="52" r="0.8" fill="#efe6ff"/><circle class="tw" style="animation-delay:2.9s" cx="290" cy="150" r="1" fill="#efe6ff"/><circle class="tw" style="animation-delay:2.4s" cx="438" cy="57" r="1.2" fill="#efe6ff"/>
+<g class="fl"><circle cx="120" cy="85" r="44" fill="url(#m3)"/><circle cx="140" cy="72" r="40" fill="#0a0710"/></g>
+<text x="500" y="80" class="disp" font-size="40" fill="#efe6ff" text-anchor="middle">LET'S BUILD</text>
+<text x="500" y="122" class="disp" font-size="40" fill="none" stroke="#cdb4ff" stroke-width="1.2" text-anchor="middle">SOMETHING</text>
+<text x="500" y="150" class="mono" font-size="11" fill="#8b7aa8" text-anchor="middle">© 2026 KAUANNA PAIVA // END OF TRANSMISSION ✦</text>
+<text x="900" y="78" class="jp" font-size="26" fill="#cdb4ff" text-anchor="middle">また</text>
+<text x="900" y="110" class="jp" font-size="26" fill="#cdb4ff" text-anchor="middle">ね</text>
+<path class="tw" style="animation-delay:0.2s" d="M830 42 Q830 50 838 50 Q830 50 830 58 Q830 50 822 50 Q830 50 830 42Z" fill="#f0a6ff"/><path class="tw" style="animation-delay:1s" d="M250 124 Q250 130 256 130 Q250 130 250 136 Q250 130 244 130 Q250 130 250 124Z" fill="#efe6ff"/>
+</svg>
