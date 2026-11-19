@@ -19,7 +19,7 @@
 <text x="500" y="80" class="disp" font-size="40" fill="#efe6ff" text-anchor="middle">LET'S BUILD</text>
 <text x="500" y="122" class="disp" font-size="40" fill="none" stroke="#cdb4ff" stroke-width="1.2" text-anchor="middle">SOMETHING</text>
 <text x="500" y="150" class="mono" font-size="11" fill="#8b7aa8" text-anchor="middle">© 2026 KAUANNA PAIVA // END OF TRANSMISSION ✦</text>
-<text x="900" y="78" class="jp" font-size="26" fill="#cdb4ff" text-anchor="middle">また</text>
-<text x="900" y="110" class="jp" font-size="26" fill="#cdb4ff" text-anchor="middle">ね</text>
+<text x="890" y="95" class="jp" font-size="28" fill="#cdb4ff" text-anchor="middle">またね</text>
+<text x="890" y="115" class="mono" font-size="10" fill="#8b7aa8" text-anchor="middle">[até mais]</text>
 <path class="tw" style="animation-delay:0.2s" d="M830 42 Q830 50 838 50 Q830 50 830 58 Q830 50 822 50 Q830 50 830 42Z" fill="#f0a6ff"/><path class="tw" style="animation-delay:1s" d="M250 124 Q250 130 256 130 Q250 130 250 136 Q250 130 244 130 Q250 130 250 124Z" fill="#efe6ff"/>
 </svg>
