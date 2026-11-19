@@ -4,10 +4,8 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-stack-dark.svg" />
-  <img src="./assets/sec-stack-light.svg" width="100%" alt="Stack" />
-</picture>
+<img src="./assets/sec-stack-dark.svg#gh-dark-mode-only" width="100%" alt="Stack" />
+<img src="./assets/sec-stack-light.svg#gh-light-mode-only" width="100%" alt="Stack" />
 
 <div align="center">
 <table>
@@ -27,10 +25,8 @@
 <br/>
 
 <a href="https://github.com/paivakauanna?tab=repositories">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-projects-dark.svg" />
-  <img src="./assets/sec-projects-light.svg" width="100%" alt="Projects — view all" />
-</picture>
+<img src="./assets/sec-projects-dark.svg#gh-dark-mode-only" width="100%" alt="Projects — view all" />
+<img src="./assets/sec-projects-light.svg#gh-light-mode-only" width="100%" alt="Projects — view all" />
 </a>
 
 <div align="center">
@@ -40,10 +36,8 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-stats-dark.svg" />
-  <img src="./assets/sec-stats-light.svg" width="100%" alt="Stats" />
-</picture>
+<img src="./assets/sec-stats-dark.svg#gh-dark-mode-only" width="100%" alt="Stats" />
+<img src="./assets/sec-stats-light.svg#gh-light-mode-only" width="100%" alt="Stats" />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=paivakauanna&background=0e0c15&border=2b2838&ring=a78bfa&fire=c084fc&currStreakNum=f1edf7&sideNums=f1edf7&currStreakLabel=c4b5fd&sideLabels=c9c2d6&dates=9a93ab&stroke=2b2838&border_radius=12" width="57%" alt="GitHub streak" />
@@ -52,10 +46,8 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-activity-dark.svg" />
-  <img src="./assets/sec-activity-light.svg" width="100%" alt="Recent activity" />
-</picture>
+<img src="./assets/sec-activity-dark.svg#gh-dark-mode-only" width="100%" alt="Recent activity" />
+<img src="./assets/sec-activity-light.svg#gh-light-mode-only" width="100%" alt="Recent activity" />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=paivakauanna&bg_color=0e0c15&color=c9c2d6&line=a78bfa&point=c084fc&area=true&area_color=7c3aed&title_color=f1edf7&hide_title=true&radius=12" width="100%" alt="Contribution graph" />
