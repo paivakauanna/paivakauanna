@@ -1,45 +1,66 @@
 <div align="center">
-
-<img src="./assets/header.svg" width="100%" alt="Kauanna Paiva — cloud, devops & data" />
-
-<img src="./assets/whoami.svg" width="100%" alt="whoami" />
-
-<img src="./assets/title-stack.svg" width="100%" alt="Stack" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=aws,html,css,js,git,github,vscode&theme=dark&perline=7" alt="Current stack" />
-
-<sub><code>&gt; on my learning path_</code></sub>
-
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,githubactions,py&theme=dark&perline=5" alt="Learning" />
-
-<br/><br/>
-
-<img src="./assets/title-projetos.svg" width="100%" alt="Projects" />
-
-<br/>
-
-<a href="https://github.com/paivakauanna/Projeto_Site_Facul-Cafeteria1-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paivakauanna&repo=Projeto_Site_Facul-Cafeteria1-&bg_color=07060d&title_color=cdb4ff&text_color=efe6ff&icon_color=22d3ee&border_color=2e2350&description_lines_count=2" alt="CupKat" />
-</a>
-<a href="https://github.com/paivakauanna/Cafeteria_Teste">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paivakauanna&repo=Cafeteria_Teste&bg_color=07060d&title_color=cdb4ff&text_color=efe6ff&icon_color=22d3ee&border_color=2e2350&description_lines_count=2" alt="Cafeteria Teste" />
-</a>
-
-<br/><br/>
-
-<img src="./assets/title-stats.svg" width="100%" alt="Stats" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=paivakauanna&background=07060d&border=2e2350&ring=cdb4ff&fire=22d3ee&currStreakNum=efe6ff&sideNums=efe6ff&currStreakLabel=cdb4ff&sideLabels=cdb4ff&dates=8b7aa8&stroke=3b2a5c" width="49%" alt="Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivakauanna&layout=compact&bg_color=07060d&title_color=cdb4ff&text_color=efe6ff&border_color=2e2350&card_width=420" width="49%" alt="Top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paivakauanna&bg_color=07060d&color=cdb4ff&line=b48cff&point=22d3ee&area=true&area_color=a855f7&title_color=efe6ff&hide_border=true&custom_title=%3E%20activity.log" width="100%" alt="Contribution graph" />
-
-<br/><br/>
-
-<img src="./assets/footer.svg" width="100%" alt="Let's build something" />
-
+  <img src="./assets/header.svg" width="100%" alt="Kauanna Paiva — Full Stack Developer" />
 </div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-stack-dark.svg" />
+  <img src="./assets/sec-stack-light.svg" width="100%" alt="Stack" />
+</picture>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="44" alt="AWS" /><br/><sub>AWS</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="44" alt="HTML" /><br/><sub>HTML</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="44" alt="CSS" /><br/><sub>CSS</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="44" alt="JavaScript" /><br/><sub>JavaScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub" /><br/><sub>GitHub</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VS Code" /><br/><sub>VS Code</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="44" alt="Python" /><br/><sub>Python</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker" /><br/><sub>Docker</sub></td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+<a href="https://github.com/paivakauanna?tab=repositories">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-projects-dark.svg" />
+  <img src="./assets/sec-projects-light.svg" width="100%" alt="Projects — view all" />
+</picture>
+</a>
+
+<div align="center">
+  <a href="https://github.com/paivakauanna/Projeto_Site_Facul-Cafeteria1-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paivakauanna&repo=Projeto_Site_Facul-Cafeteria1-&bg_color=0e0c15&title_color=c4b5fd&text_color=c9c2d6&icon_color=a78bfa&border_color=2b2838&border_radius=12&description_lines_count=3" width="49%" alt="Projeto_Site_Facul-Cafeteria1-" /></a>
+  <a href="https://github.com/paivakauanna/Cafeteria_Teste"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paivakauanna&repo=Cafeteria_Teste&bg_color=0e0c15&title_color=c4b5fd&text_color=c9c2d6&icon_color=a78bfa&border_color=2b2838&border_radius=12&description_lines_count=3" width="49%" alt="Cafeteria_Teste" /></a>
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-stats-dark.svg" />
+  <img src="./assets/sec-stats-light.svg" width="100%" alt="Stats" />
+</picture>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=paivakauanna&background=0e0c15&border=2b2838&ring=a78bfa&fire=c084fc&currStreakNum=f1edf7&sideNums=f1edf7&currStreakLabel=c4b5fd&sideLabels=c9c2d6&dates=9a93ab&stroke=2b2838&border_radius=12" width="57%" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivakauanna&layout=compact&bg_color=0e0c15&title_color=f1edf7&text_color=c9c2d6&border_color=2b2838&border_radius=12&card_width=320&custom_title=Top%20languages" width="41%" alt="Top languages" />
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-activity-dark.svg" />
+  <img src="./assets/sec-activity-light.svg" width="100%" alt="Recent activity" />
+</picture>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paivakauanna&bg_color=0e0c15&color=c9c2d6&line=a78bfa&point=c084fc&area=true&area_color=7c3aed&title_color=f1edf7&hide_title=true&radius=12" width="100%" alt="Contribution graph" />
+</div>
+
+<br/>
+
+<img src="./assets/footer.svg" width="100%" alt="Always learning. Always building." />
